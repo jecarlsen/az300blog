@@ -8,3 +8,11 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+
+docs:
+  - title: Registering for Pluralsight
+    children:
+      - title: "Quick-Start"
+        url: /docs/quick-start/
+      - title: "References"
+        url: /docs/references/
