@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Get over to Pluralsight"
+---
+
 # Registration
 
 Courtesy of Microsoft and Pluralsight, you can get access to these courses for FREE.  
