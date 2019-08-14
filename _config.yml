@@ -4,6 +4,11 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.5"
 plugins:
   - jekyll-include-cache
   
-sidebar:
-  nav: "docs"
-
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
