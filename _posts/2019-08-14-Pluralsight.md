@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Get over to Pluralsight"
+categories: [instructions]
+tags: [pluralsight, az300]
 ---
 
 # Registration
