@@ -11,6 +11,7 @@ main:
   - title: "About"
     url: /about/
 
+# Docs nav links
 docs:
   - title: Registering for Pluralsight
     children:
