@@ -106,13 +106,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
+  # _docsnav
   - scope:
       path: ""
-      type: docs
+      type: docsnav
     values:
       sidebar:
-        nav: "docs"
+        nav: "docsnav"
         
 category_archive:
   type: liquid

@@ -12,7 +12,7 @@ main:
     url: /about/
 
 # Docs nav links
-docs:
+docsnav:
   - title: Registering for Pluralsight
     children:
       - title: "Quick-Start"
