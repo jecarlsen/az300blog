@@ -1,6 +1,6 @@
 ---
-title: "Quick-Start Guide"
-permalink: /docs/references/
+title: "Reference"
+permalink: /references/
 toc: true
 ---
 # Registering

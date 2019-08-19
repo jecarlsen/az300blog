@@ -1,6 +1,6 @@
 ---
 title: "Quick-Start Guide"
-permalink: /docs/quick-start/
+permalink: /quick-start/
 toc: true
 ---
 # Registering
