@@ -15,6 +15,6 @@ docs:
   - title: Registering for Pluralsight
     children:
       - title: "Quick-Start"
-        url: /docs/quick-start/
+        url: /about/
       - title: "References"
-        url: /docs/references/
+        url: /posts/
