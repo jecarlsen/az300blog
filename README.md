@@ -1,9 +1,4 @@
----
-sidebar:
-  nav: "docs"
----
-
-## Welcome to GitHub Pages
+## GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jecarlsen/az300blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
