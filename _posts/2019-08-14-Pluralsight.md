@@ -1,8 +1,10 @@
 ---
-layout: post
-title:  "Get over to Pluralsight"
-categories: [instructions]
-tags: [pluralsight, az300]
+title:  "Pluralsight that away"
+categories:
+  - instructions
+tags:
+  - pluralsight
+  - az300
 ---
 
 # Registration
